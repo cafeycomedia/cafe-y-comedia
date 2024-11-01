@@ -82,7 +82,7 @@ section {
 }
 
 .function-container img {
-    max-width: 100%; 
+    width: 100%; 
     border-top-left-radius: var(--function-border-radius);
     border-top-right-radius: var(--function-border-radius);
     cursor: pointer;
