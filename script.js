@@ -1,6 +1,7 @@
+// tiraba codigo en ingles el fantasma
+
 const buttons = document.getElementsByClassName("more-info-btn")
 const images = document.getElementsByClassName("function-image")
-console.log(buttons)
 
 const funcionNoImplementada = () => {
     alert("Función no implementada")
